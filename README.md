@@ -10,9 +10,6 @@ This is a simple **GUI-based Age Calculator** built using Python's `tkinter` mod
 - Input validation with error messages
 - Clear button to reset all fields
 
-## 🖼️ GUI Preview
-
-> *(Include a screenshot of the application window here)*
 
 ## 🛠️ Technologies Used
 
